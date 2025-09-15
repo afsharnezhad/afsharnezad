@@ -41,12 +41,14 @@
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
 
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3M2bWxmcG9uOW5sNzAyNWRtczZ4Z3A5ZnpwNDhzenVmODN1anBpYSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/tONVqBNYuxCSAzl87A/giphy.gif
+" alt="afsharnezad" style="float: right; height: 150px; width: 300px;">
 #### **Languages & Tools**
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3M2bWxmcG9uOW5sNzAyNWRtczZ4Z3A5ZnpwNDhzenVmODN1anBpYSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/tONVqBNYuxCSAzl87A/giphy.gif
+
 
 <h2>🛠️ What I love doing</h2>
 <ul>
