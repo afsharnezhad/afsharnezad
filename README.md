@@ -1,3 +1,5 @@
+![Profile views](https://komarev.com/ghpvc/?username=afsharnezad&label=Profile%20views&color=0e75b6&style=flat)
+
 # 👋 Hi, I'm Mohammad Sadegh  
 
 ## 🤖 DevOps Engineer | IT Specialist | Lifelong Learner  
@@ -33,7 +35,6 @@
 #### **Networking & Security**
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
-![Firewall](https://img.shields.io/badge/Firewall-Security-blue?style=for-the-badge&logo=datadog&logoColor=white)
 
 #### **Languages & Tools**
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -44,6 +45,7 @@
 ---
 
 ### 📈 GitHub Stats  
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=afsharnezad)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=afsharnezad&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afsharnezad&layout=compact&theme=tokyonight)  
 
