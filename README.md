@@ -19,12 +19,17 @@
 
 <img align="right" src="https://i.pinimg.com/originals/c6/ea/f2/c6eaf2589af865e5dab158c5c67fc050.gif" alt="afsharnezad" style="float: right; height: 150px; width: 300px;">
 
+<img align="right" src="https://i.pinimg.com/originals/c6/ea/f2/c6eaf2589af865e5dab158c5c67fc050.gif" alt="afsharnezad" style="float: right; height: 150px; width: 300px;">
+
 <ul>
-  <li>🐧 Linux (daily driver & comfort zone)</li>
-  <li>🐳 Docker & Kubernetes (because containers scale better than excuses)</li>
-  <li>☁️ Oracle Cloud & AWS (clouds are where dreams… and infra live)</li>
-  <li>🔄 GitHub Actions & Jenkins (CI/CD or it didn’t happen)</li>
-  <li>🛡️ Cisco & MikroTik (securing traffic like a boss)</li>
+  <li>🐧 Linux (روزانه — تسلط بالا)</li>
+  <li>🐳 Docker & Docker Compose (کانتینرها و اتوماسیون محلی)</li>
+  <li>☸️ Kubernetes (استقرار و مدیریت کلاسترها)</li>
+  <li>🔄 GitHub Actions & Jenkins (CI/CD و پایپلاین‌ها)</li>
+  <li>☁️ Oracle Cloud & AWS (محیط‌های ابری و سرویس‌ها)</li>
+  <li>🔌 Cisco & MikroTik (شبکه‌سازی، روتینگ و امنیت)</li>
+  <li>🖥️ VMware ESXi & Virtualization (مجازی‌سازی سرورها)</li>
+  <li>💻 Bash & Python (اسکریپت‌نویسی و اتوماسیون)</li>
 </ul>
 
 <h2>🛠️ What I love doing</h2>
