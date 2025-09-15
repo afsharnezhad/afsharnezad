@@ -52,7 +52,7 @@
 
 <h2>💬 Let's connect</h2>
 <p align="left">
-  <a href="mailto:afsharnezhad.dev@gmail.com" target="blank">
+  <a href="mailto:mo.afsharnezhad@gmail.com" target="blank">
     <img src="https://img.icons8.com/?size=256&id=EgRndDDLh8kS&format=png" alt="email" height="40" width="40" />
   </a>
   <a href="https://linkedin.com/in/afsharnezhad" target="blank">
